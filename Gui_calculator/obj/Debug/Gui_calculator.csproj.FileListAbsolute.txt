@@ -1,0 +1,13 @@
+/Users/JE/Projects/Gui_calculator/Gui_calculator/bin/Debug/Gui_calculator.exe
+/Users/JE/Projects/Gui_calculator/Gui_calculator/bin/Debug/Gui_calculator.pdb
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/Gui_calculator.csprojAssemblyReference.cache
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/Gui_calculator.csproj.CoreCompileInputs.cache
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/Gui_calculator.exe
+/Users/JE/Projects/Gui_calculator/Gui_calculator/obj/Debug/Gui_calculator.pdb
